@@ -2,7 +2,7 @@
 title: "Merkle Tree Certificates: Chrome’s Path to Quantum-Safe HTTPS"
 date: "2026-03-06T12:00:00-05:00"
 tags: ["Post-quantum Cryptography", "Quantum-Safe cryptography", "Merkle Tree"]
-excerpt: "An account of the discovery of radium and its properties."
+excerpt: "Post-quantum cryptography solves one problem and creates two others. "
 ---
 
 # Merkle Tree Certificates: Chrome’s Path to Quantum-Safe HTTPS
