@@ -34,7 +34,7 @@ export const template = {
 }
 
 export const seo = {
-	default_title: 'Astro Academia',
-	default_description: 'Astro Academia is a template for academic websites.',
-	default_image: '/images/astro-academia.png',
+	default_title: 'Jeny Teheran',
+	default_description: 'Cybersecurity Leader',
+	default_image: '/images/jeny-teheran.png',
 }
