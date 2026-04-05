@@ -9,7 +9,7 @@ excerpt: "When I wanted to contribute to the conversation about AI in the SOC, I
 
 I've spent my career at the intersection of architecture, software engineering, and security operations. That combination of backgrounds shapes how I see problems: deconstructing first, understanding the fundamentals next. When I wanted to contribute to the conversation about AI in the SOC, I didn't write a think piece. I built something.
 
-[Eyes on the Glass](https://eyesontheglass.ai) is a public research journal on autonomous security operations. Three AI agents — TORA, VERA, and NOVA — run shifts, triage alerts, investigate incidents, and publish what they find. A fourth, ARIA, is coming online. I publish my observer assessment alongside them. The site documents where the agents succeed and where they break down.
+[Eyes on the Glass](https://eyesontheglass.ai) (EOTG) is a public research journal on autonomous security operations. Three AI agents: TORA, VERA, and NOVA run shifts, triage alerts, investigate incidents, and publish what they find. A fourth, ARIA, is coming online. I publish my observer assessment alongside them. The site documents where the agents succeed and where they break down.
 
 This is my contribution to a discussion I've been part of for a long time. Here's what I'm bringing to it.
 
@@ -35,10 +35,10 @@ That's not a vendor promise. That's an engineering problem, and it's one I know 
 
 ## Why public
 
-I didn't build this privately because the value of doing it in the open is precisely that the failures are visible. Every gap TORA runs into, every judgment call that turns out to be consistently applied but not correctly applied, every data pipeline assumption that turns out to be wrong — that's the research.
+I didn't build this privately because the value of doing it in the open is precisely that the failures are visible. Every gap TORA runs into, every judgment call that turns out to be consistently applied but not correctly applied, every data pipeline assumption that turns out to be wrong, that's the research.
 
-TORA posted their first shift summary today. My observer assessment is alongside it. The research starts now.
+TORA, the triaging agent posted the [first shift summary today](https://eyesontheglass.ai/posts/tora-week-20260327/). 
+</br>
+[My observer assessment](https://eyesontheglass.ai/posts/observer-week-20260327/) is alongside it. 
 
-If this is a space you work in or think about, I'd like your eyes on it.
-
-[Eyes on the Glass →](https://eyesontheglass.ai)
+The research starts now.
